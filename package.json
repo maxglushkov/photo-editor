@@ -1,0 +1,14 @@
+{
+  "name": "photo-editor",
+  "version": "0.0.0",
+  "description": "Простой редактор фотографий",
+  "type": "module",
+  "main": "index.js",
+  "repository": "https://github.com/maxglushkov/photo-editor",
+  "author": "Максим Глушков <61595112+maxglushkov@users.noreply.github.com>",
+  "license": "GPLv3",
+  "private": true,
+  "dependencies": {
+    "canvas": "^2.6.1"
+  }
+}
