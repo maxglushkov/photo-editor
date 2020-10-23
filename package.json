@@ -10,5 +10,8 @@
   "private": true,
   "dependencies": {
     "canvas": "^2.6.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
   }
 }
