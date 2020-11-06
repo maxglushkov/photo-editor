@@ -3,7 +3,6 @@
   "version": "0.0.0",
   "description": "Простой редактор фотографий",
   "type": "module",
-  "main": "index.js",
   "repository": "https://github.com/maxglushkov/photo-editor",
   "author": "Максим Глушков <61595112+maxglushkov@users.noreply.github.com>",
   "license": "GPLv3",
@@ -12,6 +11,11 @@
     "canvas": "^2.6.1"
   },
   "devDependencies": {
-    "typescript": "^4.0.3"
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3",
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0"
   }
 }
